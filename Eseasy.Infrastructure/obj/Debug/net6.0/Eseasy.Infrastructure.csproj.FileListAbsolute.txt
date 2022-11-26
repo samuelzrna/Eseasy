@@ -1,0 +1,5 @@
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Infrastructure\obj\Debug\net6.0\Eseasy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Infrastructure\obj\Debug\net6.0\Eseasy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Infrastructure\obj\Debug\net6.0\Eseasy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Infrastructure\obj\Debug\net6.0\Eseasy.Infrastructure.AssemblyInfo.cs
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Infrastructure\obj\Debug\net6.0\Eseasy.Infrastructure.csproj.CoreCompileInputs.cache

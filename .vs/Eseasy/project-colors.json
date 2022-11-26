@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75940c90-5772-40f9-b417-d9da86fbd771": {
+      "ProjectGuid": "75940c90-5772-40f9-b417-d9da86fbd771",
+      "DisplayName": "Zenterprise",
+      "ColorIndex": 0
+    },
+    "e08b6b6e-38b8-4c80-ba05-9872b50b0dcc": {
+      "ProjectGuid": "e08b6b6e-38b8-4c80-ba05-9872b50b0dcc",
+      "DisplayName": "Eseasy.Infrastructure",
+      "ColorIndex": 1
+    },
+    "fef6eddf-2aff-4f1d-accb-026b09ae92c4": {
+      "ProjectGuid": "fef6eddf-2aff-4f1d-accb-026b09ae92c4",
+      "DisplayName": "Eseasy.Core",
+      "ColorIndex": 2
+    },
+    "6cc2bc40-8a3f-41b0-8ff2-cadbdea249a9": {
+      "ProjectGuid": "6cc2bc40-8a3f-41b0-8ff2-cadbdea249a9",
+      "DisplayName": "Eseasy.Application",
+      "ColorIndex": 3
+    },
+    "ea701240-030f-402e-9dce-b553d9cac976": {
+      "ProjectGuid": "ea701240-030f-402e-9dce-b553d9cac976",
+      "DisplayName": "Eseasy.Web.RateMeAsAPlayer",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\Eseasy.Core.exe
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\Eseasy.Core.deps.json
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\Eseasy.Core.runtimeconfig.json
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\Eseasy.Core.dll
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\ref\Eseasy.Core.dll
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\bin\Debug\net6.0\Eseasy.Core.pdb
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.csproj.AssemblyReference.cache
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.AssemblyInfoInputs.cache
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.AssemblyInfo.cs
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.dll
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\ref\Eseasy.Core.dll
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.pdb
+C:\Users\samue\source\projects\Zenterprise\Zenterprise.Core\obj\Debug\net6.0\Eseasy.Core.genruntimeconfig.cache
