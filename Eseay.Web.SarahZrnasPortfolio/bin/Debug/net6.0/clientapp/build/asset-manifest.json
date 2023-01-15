@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca3ca6a2.css",
+    "main.js": "/static/js/main.505a1296.js",
+    "static/js/787.b6fd2ddb.chunk.js": "/static/js/787.b6fd2ddb.chunk.js",
+    "static/media/SarahZrnaSingingBackground.jpg": "/static/media/SarahZrnaSingingBackground.855eaafb2dea1e992c3b.jpg",
+    "static/media/Dallas-Texas-Skyline.png": "/static/media/Dallas-Texas-Skyline.9f3619cf1c9995293aa6.png",
+    "index.html": "/index.html",
+    "main.ca3ca6a2.css.map": "/static/css/main.ca3ca6a2.css.map",
+    "main.505a1296.js.map": "/static/js/main.505a1296.js.map",
+    "787.b6fd2ddb.chunk.js.map": "/static/js/787.b6fd2ddb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3ca6a2.css",
+    "static/js/main.505a1296.js"
+  ]
+}

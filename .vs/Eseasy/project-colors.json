@@ -30,7 +30,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "72b9300b-27aa-4f56-bcc7-07204cab34f1": {
+      "ProjectGuid": "72b9300b-27aa-4f56-bcc7-07204cab34f1",
+      "DisplayName": "Eseasy.Web.SarahZrnasPortfolio",
+      "ColorIndex": 5
+    },
+    "96737c0b-af0c-4439-b681-f32eb5ee1263": {
+      "ProjectGuid": "96737c0b-af0c-4439-b681-f32eb5ee1263",
+      "DisplayName": "Eseasy.Web.SarahZrnasPortfolio",
+      "ColorIndex": 6
+    },
+    "f2f70eba-9260-4b1f-888e-382d94579520": {
+      "ProjectGuid": "f2f70eba-9260-4b1f-888e-382d94579520",
+      "DisplayName": "Eseasy.Web.SarahZrnasPortfolio",
+      "ColorIndex": 7
+    },
+    "aac3253f-6831-4863-832a-d6959fbc417b": {
+      "ProjectGuid": "aac3253f-6831-4863-832a-d6959fbc417b",
+      "DisplayName": "Eseasy.Infrastructure",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 9
 }

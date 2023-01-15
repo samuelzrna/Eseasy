@@ -612,7 +612,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj",
       "Microsoft.Extensions.Configuration.Abstractions >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
       "System.Data.SqlClient >= 4.8.5"
@@ -644,11 +643,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj": {
-              "projectPath": "C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -692,16 +687,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

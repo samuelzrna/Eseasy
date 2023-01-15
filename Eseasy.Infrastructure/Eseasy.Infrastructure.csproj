@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zenterprise.Core\Eseasy.Core.csproj" />
+    
   </ItemGroup>
 
 </Project>

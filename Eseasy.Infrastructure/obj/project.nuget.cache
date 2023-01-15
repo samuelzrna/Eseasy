@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "GRhkQys4a7OaNUhsvyMCcrWoruLpRjBlOixq/isLA4wT6Os1h+s+9hV6uN0jsyjD3/g/lqr/KNE4Ej1CN7lRjA==",
-  "success": false,
+  "dgSpecHash": "EgdyPT7+6p+4QadwYNv7fuGnykUCNSGp5k/Isa568gNCDfUL8lrXJ1oFvfCHWsP5f2p7ub4myuTM6HIK3VpS5A==",
+  "success": true,
   "projectFilePath": "C:\\Users\\samue\\source\\projects\\Eseasy\\Eseasy.Infrastructure\\Eseasy.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -18,15 +18,5 @@
     "C:\\Users\\samue\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\samue\\source\\projects\\Eseasy\\Zenterprise.Core\\Eseasy.Core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

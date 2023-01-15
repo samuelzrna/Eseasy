@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2rRrOt2HkIaF+EJcnZkvuMDNwCO2XcDqHhq4G6ZKEGVX2ljXnQ9yhwlBj5La6InrZ6/uJvKAOa8O8Dpifmt3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\projects\\Eseasy\\Eseay.Web.SarahZrnasPortfolio\\Eseasy.Web.SarahZrnasPortfolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.11\\microsoft.aspnetcore.spaservices.extensions.6.0.11.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
